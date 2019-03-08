@@ -2,7 +2,7 @@
 """
 Created on Thu Mar  7 18:32:09 2019
 
-@author: Kian
+@author: Fatemeh Kiaie
 """
 # Logistic Regression
 # Importing the libraries
